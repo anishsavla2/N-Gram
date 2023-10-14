@@ -6,7 +6,7 @@ In this Repo, I built and evaluated unigram, bigram, and trigram language models
 Handling Out-Of-Vocabulary Words
 For tokens that occurred less than three times, I converted them to a special <UNK> token during training. The resulting vocabulary (which includes <UNK> and <STOP>, but excludes <START>) consists of 26,602 unique tokens.
 
-Deliverables
+Deliverables\n
 In the writeup, I fully described my models and experimental procedures.
 I provided graphs, tables, charts, etc. to support any claims.
 Perplexity Scores
